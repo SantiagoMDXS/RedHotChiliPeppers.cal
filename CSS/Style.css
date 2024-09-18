@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin:0; padding: 0; }
+body {background-image: url("../IMG/Red Hot rojo 3.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; text-align: center; color: white; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; }
+
+.wrapper {background-color: rgba(10,9,9,0.70); width:1000px; margin-left: auto; margin-right: auto;}
+
+footer {font-size: 10px; background-color: #050505 ; height: 50px; line-height: 50px; }
+
+.Menu {background-color: black; height: 220px;}
+
+ul {list-style-type: none; }
+li{width: 249px; float: left; border-left:1px solid #9E9E9E; line-height: 25px; }
+
+#bordeiz {border-left: none; }
+
+h1 {color:red; font-size: 60px; line-height: 180px; }
+
+.fondo {background-color: #A30B0B; width: 700; margin-left: auto; margin-right: auto; padding:50px; margin:50px; }
+
+/* valores de boxshadow: x, y, difuminado y color*/ 
+
+
+.fondo p {text-align: justify;}
+
+h2 {color:white; border-top:2px solid white; border-bottom:2px solid white; width:333px; margin-left: auto; margin-right: auto; line-height:50px; }
+
+
+.polaroid { width: 317px; height: 380px; background-color: antiquewhite; color:black; box-shadow: 10px 10px 20px grey; float:left; margin: 8px; }  
+
+
+.clear{clear: left;  }
+
+a {text-decoration: none; color: white;}
+
+a:hover {color:red; font-size: 15px;}
